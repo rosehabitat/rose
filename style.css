@@ -102,11 +102,11 @@ body {
   }
   
   @keyframes slideBackground {
-    0% { background-image: url('https://github.com/rosehabitat/rosehabitat.github.io/blob/main/S11.jpg?raw=true'); }
-    25% { background-image: url('https://github.com/rosehabitat/rosehabitat.github.io/blob/main/S8.jpg?raw=true'); }
-    50% { background-image: url('https://github.com/rosehabitat/rosehabitat.github.io/blob/main/S6.jpg?raw=true'); }
-    75% { background-image: url('https://github.com/rosehabitat/rosehabitat.github.io/blob/main/S5.jpg?raw=true'); }
-    100% { background-image: url('https://github.com/rosehabitat/rosehabitat.github.io/blob/main/S7.jpg?raw=true'); }
+    0% { background-image: url('https://github.com/rosehabitat/rose.github.io/blob/main/S11.jpg?raw=true'); }
+    25% { background-image: url('https://github.com/rosehabitat/rose.github.io/blob/main/S8.jpg?raw=true'); }
+    50% { background-image: url('https://github.com/rosehabitat/rose.github.io/blob/main/S6.jpg?raw=true'); }
+    75% { background-image: url('https://github.com/rosehabitat/rose.github.io/blob/main/S5.jpg?raw=true'); }
+    100% { background-image: url('https://github.com/rosehabitat/rose.github.io/blob/main/S7.jpg?raw=true'); }
   }
   
   .about, .projects, .recent-activities, .contact {
